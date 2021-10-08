@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\Lam\dai hoc\làm thêm\xe đua\demoGameDuaXe (buffer)\demoDuaXe\main.cpp(84,20): warning C4309: '=': truncation of constant value
+E:\Lam\dai hoc\làm thêm\xe đua\demoGameDuaXe (buffer)\demoDuaXe\main.cpp(204,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  demoDuaXe.vcxproj -> E:\Lam\dai hoc\làm thêm\xe đua\demoGameDuaXe (buffer)\Debug\demoDuaXe (buffer).exe
